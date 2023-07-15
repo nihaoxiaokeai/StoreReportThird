@@ -1,0 +1,33 @@
+body {
+  background-color: #eee;
+  //overflow: hidden;
+  //overflow-y: hidden;
+  //overflow-x: hidden;
+  -webkit-overflow-scrolling : touch;
+}
+.reportDate {
+  background: #fff;
+  text-align: center;
+  padding: 10px 0;
+  color: #323232;
+  font-size: 15px;
+  border-top: 1px solid #f4f4f4;
+  font-weight: bold;
+}
+.reportData {
+  font-weight: bold;
+  padding: 5px 12px 0;
+}
+.storeWrap {
+  // display: -webkit-box;
+  padding-bottom:10px;
+  margin-bottom: -10px;
+  //background: #fff;
+  font-size: 12px;
+  border-radius: 6px;
+  margin: 5px 10px 10px;
+  overflow: hidden;
+}
+.pageWrap {
+  margin: 5px 10px 10px;
+}
